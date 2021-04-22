@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: lightcyan;
+  color: powderblue;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #824027;
+  color: #17a2b8;
   text-decoration: underline;
 }
 
@@ -4577,7 +4577,7 @@ input[type=button].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: lightcyan;
+  color: powderblue;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
