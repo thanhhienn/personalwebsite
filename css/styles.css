@@ -2879,11 +2879,11 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: lightcyan;
+  color: lightblue;
   text-decoration: none;
 }
 .btn-link:hover {
-  color: #824027;
+  color: mediumblue;
   text-decoration: underline;
 }
 .btn-link:focus, .btn-link.focus {
@@ -3925,7 +3925,7 @@ input[type=button].btn-block {
 }
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #fff;
+  color: #6c757d;
   background-color: lightcyan;
 }
 
@@ -4295,7 +4295,7 @@ input[type=button].btn-block {
 .navbar-dark .navbar-nav .active > .nav-link,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .nav-link.active {
-  color: #fff;
+  color: #6c757d;
 }
 .navbar-dark .navbar-toggler {
   color: rgba(255, 255, 255, 0.5);
